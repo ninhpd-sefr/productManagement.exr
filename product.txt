@@ -1,0 +1,4 @@
+10,iphone10,10.0,1000,available
+13,iphone13,10.0,50,available
+12,iphone12,100.0,50,not available
+08,iphone8,10.0,20,Available
